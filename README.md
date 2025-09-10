@@ -36,7 +36,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-##index.html
+index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -60,7 +60,7 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 ```
-##style.css
+style.css
 ```
 body {
     background-color: #fffbea;
@@ -210,7 +210,7 @@ h1 {
     margin: 0 0 10px 0;
 }
 ```
-##app.js
+app.js
 ```
 const taskInput = document.getElementById('taskInput');
 const addTaskBtn = document.getElementById('addTaskBtn');
